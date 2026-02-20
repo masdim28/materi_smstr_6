@@ -31,13 +31,10 @@
 
 ![alt text](image-7.png)
 
-9. Confirm Payment Accept in Credit Card APps
-
-![alt text](image-8.png)
 
 10. Confirm SMS 
 
-![alt text](image.png)
+![alt text](image-8.png)
 
 
 11. Pastikan Sudah Berhasil
