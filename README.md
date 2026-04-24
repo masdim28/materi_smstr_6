@@ -1,1 +1,0 @@
-# materi_smstr_6
