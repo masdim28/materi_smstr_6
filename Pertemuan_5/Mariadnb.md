@@ -33,4 +33,7 @@ exit;
 
 login sebagai usrcompro_NIM dan cek apakah bisa akses ke DB yang baru dibuat
 
+<<<<<<< HEAD:adm_server_6A/Pertemuan_5/Mariadnb.md
 ![alt text](image.png)
+
+> > > > > > > e0aa88f8e358ddbe0e8097ebf357a05ca3f7dcfe:Pertemuan_5/Mariadnb.md
