@@ -1,10 +1,15 @@
 #deploy web apps fremwork ke aws
 
-1. pastikan web apps berjalan dilokal
-   -install dependensi 'npm instal'
-   -jalankan web apps 'npm run dev'
-   -akses web apps di broser 'http://localhost:3000'
+1. Deploy Web Apps Framework Next.js ke AWS
+   Pastikan Web Apps berjalan di Local
+   install dependensi -> npm install
+   create db dan import sql
+   create file .env dan isi sesuaikan dengan db local
+   jalankan web apps -> npm run dev
+   akses web apps di browser http://localhost:3000
+   Testing Front Pastikan tampilan muncul dan tanpa Error
+   testing Back end http://localhost:3000/admin username: admin password: admin123
 
    ![alt text](image-1.png)
-
-2.
+   Create static File -> npm run build
+   Archive folder standalone -> zip -> klik kanan folder standalone -> send to -> compressed (zipped) folder
