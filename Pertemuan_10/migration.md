@@ -47,4 +47,4 @@ sesuiakn isi .env : DB_HOST=[IP_ADDRESS] DB_USER=usercompro_NIM DB_PASS=[PASSWOR
 ctrl+x -> y -> Enter 10. pm2 start server.js 11. tambah / buka port 3000 di AWS Security Groups
 ![alt text](image-3.png) 12. Akses http://[IP_ADDRESS]:3000
 13.akses BE http://[IP_ADDRESS]:3000/admin edit berita ke 2 tambahkan nama - nim
-![alt text](image-4.png)
+![alt text](image-5.png)
