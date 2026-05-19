@@ -20,8 +20,8 @@
 
 Install Dependencies: npm install
 Create user di DBMS : sudo mysql -u root -p
-CREATE USER 'userwebdinamis_2388010027'@'localhost' IDENTIFIED BY '3nS]9gnbU[nBP[Gw';
-GRANT ALL PRIVILEGES ON _._ TO 'userwebdinamis_2388010027'@'localhost';
+CREATE USER 'userwebdinamis*2388010027'@'localhost' IDENTIFIED BY '3nS]9gnbU[nBP[Gw';
+GRANT ALL PRIVILEGES ON *.\_ TO 'userwebdinamis_2388010027'@'localhost';
 FLUSH PRIVILEGES;
 exit;
 ![alt text](<Screenshot 2026-05-19 060648.png>)
@@ -52,4 +52,4 @@ Pastikan web dapat diakses di http://localhost:3000 admin tanpa error
     ![alt text](<Screenshot 2026-05-19 093538.png>)
     Referensi :
 
-https://github.com/masdim28/damandiri_2388010027
+https://github.com/moh-firdaus/himafor_nim
